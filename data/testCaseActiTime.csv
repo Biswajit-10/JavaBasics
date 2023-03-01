@@ -1,0 +1,13 @@
+﻿stepNo,test step,locatorType,locatorValue,action,value
+stepNo1,open browser,NA,NA,open browser,chrome
+stepNo2,launch url,NA,NA,enter url,https://demo.actitime.com/login.do
+stepNo3,enter email address,name,username,sendkeys,admin
+stepNo4,enter password,name,pwd,sendkeys,manager
+stepNo5,click on login Button,xpath,//div[text()='Login '],click,NA
+stepNo6,click on logout Button,id,logoutLink,click,NA
+stepNo7,close browser,NA,NA,quit,NA
+,,,,,
+,,,,,
+,,,,,
+,,,,,
+,,,,,
